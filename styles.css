@@ -39,5 +39,5 @@
 	display:flex; 
 	flex-wrap:wrap;   
 	font-size:70px; 
-	align-items:center; 
+	justify-content:center; 
 	}  
